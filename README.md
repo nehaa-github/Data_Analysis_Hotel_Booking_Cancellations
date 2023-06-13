@@ -14,3 +14,8 @@ This GitHub project explores hotel cancellation data to uncover insights and pat
 •	Seaborn
 
 •	Matplotlib
+
+Here are the questions we'll try to answer:
+1.	What are the variables that affect hotel reservation cancellations?
+2.	How can we make hotel reservations cancellations better?
+3.	How will hotels be assisted in making pricing and promotional decisions?
